@@ -1,0 +1,11 @@
+pandas
+numpy
+matplotlib
+seaborn
+scipy
+plotly
+graphviz
+networkx
+scikit-learn
+statsmodels
+snap-stanford
