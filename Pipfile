@@ -14,9 +14,9 @@ graphviz = "*"
 networkx = "*"
 scikit-learn = "*"
 statsmodels = "*"
+requests = "*"
 
 [dev-packages]
-ipykernel = "*"
 
 [requires]
 python_version = "3.13"

@@ -8,3 +8,4 @@ graphviz
 networkx
 scikit-learn
 statsmodels
+requests
